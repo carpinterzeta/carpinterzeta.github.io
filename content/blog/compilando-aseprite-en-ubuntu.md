@@ -5,7 +5,7 @@ tags = ["tutorial","aseprite","pixel-art","ubuntu","compilar"]
 +++
 
 En mis aventuras como aprendiz de desarrollo de videojuegos y curioso profesional, me he topado con la necesidad de realizar algunas animaciones e ilustraciones del tipo pixel art.
-Pueden generarse con [Krita(https://krita.org/es/)], [Gimp](https://www.gimp.org/), realizando algunas modificaciones en fondos y pinceles, pero hay una aplicación específica (una entre otras muchas). En este caso hablamos de [Aseprite](https://www.aseprite.org/)=.
+Pueden generarse con [Krita](https://krita.org/es/), [Gimp](https://www.gimp.org/), realizando algunas modificaciones en fondos y pinceles, pero hay una aplicación específica (una entre otras muchas). En este caso hablamos de [Aseprite](https://www.aseprite.org/)=.
 Un editor de de sprites y una herramienta para diseño de pixel art.
 
 A través de su web podemos adquirir el software para Linux, Mac o Windows por 19,99$. Pero en sus términos y condiciones nos dicen lo siguiente:
@@ -53,12 +53,11 @@ Ejecutamos el siguiente código para compilar:
       -DSKIA_LIBRARY=$HOME/deps/skia/out/Release-x64/libskia.a \
       -G Ninja \
 
-> [!WARNING]
-> Recuerda que si cambias la ruta donde descomprimiste los archivos de la versión compilada de skia, tendrás que actualizar la ruta de estos tres directorios
->
-> - DSKIA_DIR=$HOME/deps/skia \
-> - DSKIA_LIBRARY_DIR=$HOME/deps/skia/out/Release-x64 \
-> - DSKIA_LIBRARY=$HOME/deps/skia/out/Release-x64/libskia.a \
+Recuerda que si cambias la ruta donde descomprimiste los archivos de la versión compilada de skia, tendrás que actualizar la ruta de estos tres directorios
+
+- DSKIA_DIR=$HOME/deps/skia \
+- DSKIA_LIBRARY_DIR=$HOME/deps/skia/out/Release-x64 \
+- DSKIA_LIBRARY=$HOME/deps/skia/out/Release-x64/libskia.a \
 
 Y por último:
 
@@ -67,6 +66,8 @@ Y por último:
 Una vez ejecutado estos pasos (no te asustes, tarda su tiempo), podrás ejectuar aseprite dentro de la carpeta bin en el directorio build que creaste.
 `~/"tunombredeusuario/aseprite/build/bin/`
 Y ahí ejecutas `./aseprite`
+
+Tienes todas las instrucciones en el archivo [INSTALL.md](https://github.com/aseprite/aseprite/blob/main/INSTALL.md) que se descarga desde el Github de Aseprite, o lo puedes consultar en el enlace.
 
 Con eso tendrías ya una versión compilada de Aseprite, funcional en Ubuntu. Podrías crear un alias para ejectuar el programa o bien crear un acceso directo.
 
