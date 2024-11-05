@@ -5,8 +5,8 @@ tags = ["tutorial","aseprite","pixel-art","ubuntu","compilar"]
 +++
 
 En mis aventuras como aprendiz de desarrollo de videojuegos y curioso profesional, me he topado con la necesidad de realizar algunas animaciones e ilustraciones del tipo pixel art.
-Pueden generarse con [Krita](https://krita.org/es/), [Gimp](https://www.gimp.org/), realizando algunas modificaciones en fondos y pinceles, pero hay una aplicación específica (una entre otras muchas). En este caso hablamos de [Aseprite](https://www.aseprite.org/)=.
-Un editor de de sprites y una herramienta para diseño de pixel art.
+Pueden generarse con [Krita](https://krita.org/es/), [Gimp](https://www.gimp.org/), realizando algunas modificaciones en fondos y pinceles, pero hay una aplicación específica (una entre otras muchas). En este caso hablamos de [Aseprite](https://www.aseprite.org/).
+Un editor de sprites y una herramienta para diseño de pixel art.
 
 A través de su web podemos adquirir el software para Linux, Mac o Windows por 19,99$. Pero en sus términos y condiciones nos dicen lo siguiente:
 
