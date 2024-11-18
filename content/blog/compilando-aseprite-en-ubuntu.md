@@ -1,7 +1,7 @@
 +++
 title = "Compilando Aseprite en Ubuntu"
 date = "2024-11-05T20:30:50+02:00"
-tags = ["tutorial","aseprite","pixel-art","ubuntu","compilar"]
+tags = ["tutorial","aseprite","pixel art","ubuntu","compilar","recursos"]
 +++
 
 En mis aventuras como aprendiz de desarrollo de videojuegos y curioso profesional, me he topado con la necesidad de realizar algunas animaciones e ilustraciones del tipo pixel art.
