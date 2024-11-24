@@ -1,5 +1,5 @@
 +++
-title = “Instalando y configurando Graphene OS”
+title = “Instalando GrapheneOS”
 date = "2024-11-24T10:00:00+02:00"
 tags = [“grapheneOS”, ”recursos”, ”tutorial, ”software libre”, ”móvil", "F-droid"]
 +++
