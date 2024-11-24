@@ -1,7 +1,7 @@
 +++
-title = “Instalando GrapheneOS”
+title = "Instalando GrapheneOS"
 date = "2024-11-24T10:00:00+02:00"
-tags = [“grapheneOS”, ”recursos”, ”tutorial, ”software libre”, ”móvil", "F-droid"]
+tags = ["grapheneOS", "recursos", "tutorial", "software libre", "móvil", "F-droid"]
 +++
 
 Usaré esta publicación como repositorio de aplicaciones y procedimientos para instalar Graphene OS.
