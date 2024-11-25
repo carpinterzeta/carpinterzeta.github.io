@@ -46,13 +46,10 @@ Esta será una entrada viva, así que se irá actualizando en función de la evo
 
 Gracias al feedback de [Pedro J. Hdez](https://mastodon.social/deck/@ecosdelfuturo@mstdn.social) recibido a través de Mastodon, os dejo por aquí los comentarios que han realizado los desarrolladores de GrapheneOs respecto a su opinión sobre qué tienda de aplicaciones es más seguro usar:
 
-1. Los desarrolladores recomiendan instalar desde los servicios de Play Store (desde el entorno seguro que proporciona GrapheneOS) por encima de Aurora y por encima de F-Droid debido a la falta de transparencia respecto a la verificación de firmas.
-2. En el foro de soporte de Graphene, los desarrolladores vuelven a insistir en que los metadatos de los repositorios de F-Droid está mal diseñado y tiene fallas graves de seguridad.
+1. **Los desarrolladores recomiendan instalar desde los servicios de Play Store (desde el entorno seguro que proporciona GrapheneOS)** por encima de Aurora y por encima de F-Droid debido a la falta de transparencia respecto a la verificación de firmas. [(Fuente)](https://xcancel.com/GrapheneOS/status/1803185925112934533)
+2. En el foro de soporte de Graphene, los desarrolladores vuelven a insistir en que **los metadatos de los repositorios de F-Droid está mal diseñado y tiene fallas graves de seguridad**. [(Fuente)](https://discuss.grapheneos.org/d/14452-how-to-explain-why-accrescent-over-f-droid/19)
 
-Fuente del hilo: [1](https://xcancel.com/GrapheneOS/status/1803185925112934533)
-Fuente del foro de soporte de Graphene: [2](https://discuss.grapheneos.org/d/14452-how-to-explain-why-accrescent-over-f-droid/19)
-
-Así que tras revisar esta nueva información, lo más lógico sería utilizar aquellas aplicaciones que estén disponibles en [Accrescent](https://accrescent.app/) mediante la instalación de esta tienda a través de la App Store de Graphene. E instalar aquellas aplicaciones a través de Google Play en el entorno seguro.
+Tras revisar esta nueva información, lo más lógico sería utilizar aquellas aplicaciones que estén disponibles en [Accrescent](https://accrescent.app/) mediante la instalación de esta tienda a través de la App Store de Graphene. E instalar aquellas aplicaciones a través de Google Play en el entorno seguro.
 Luego dependiendo de las necesidades de seguridad de cada persona, podremos jugar con diferentes perfiles, para tener un mayor control y estanqueidad de los permisos y aplicaciones que necesitemos tener instaladas en nuestro dispositivo.
 
 Gracias por leer :)
