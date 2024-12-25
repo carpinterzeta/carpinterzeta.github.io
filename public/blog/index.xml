@@ -2,47 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Krpntrz Blog</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://krpntrz.xyz/blog/</link>
     <description>Recent content in Blog on Krpntrz Blog</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
     <copyright>Copyright © 2024, krpntrz.</copyright>
-    <lastBuildDate>Sat, 25 May 2024 09:16:50 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Dec 2024 21:16:05 +0100</lastBuildDate>
+    <atom:link href="https://krpntrz.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soluciones De Fin De Mes</title>
+      <link>https://krpntrz.xyz/soluciones-de-fin-de-mes/</link>
+      <pubDate>Wed, 25 Dec 2024 21:16:05 +0100</pubDate>
+      <guid>https://krpntrz.xyz/soluciones-de-fin-de-mes/</guid>
+      <description>&lt;h2 id=&#34;hay-veces-que-el-tema-tecnológico-y-más-específicamente-el-informático-es-algo-puñetero&#34;&gt;Hay veces que el tema tecnológico y más específicamente, el informático es algo puñetero.&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;test&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;claro&#34;&gt;Claro&lt;/h2&gt;&#xA;&lt;h3 id=&#34;menos-claro&#34;&gt;Menos Claro&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;this&lt;/em&gt; -this-&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Instalando GrapheneOS</title>
+      <link>https://krpntrz.xyz/instalando-grapheneos/</link>
+      <pubDate>Sun, 24 Nov 2024 10:00:00 +0200</pubDate>
+      <guid>https://krpntrz.xyz/instalando-grapheneos/</guid>
+      <description>&lt;p&gt;Usaré esta publicación como repositorio de aplicaciones y procedimientos para instalar Graphene OS.&#xA;La idea es mantener un sistema minimalista y con un uso controlado.&lt;/p&gt;&#xA;&lt;h4 id=&#34;dispositivo-pixel-7-pro&#34;&gt;Dispositivo: Pixel 7 Pro&lt;/h4&gt;&#xA;&lt;h4 id=&#34;sistema-operativo-previo-android-15&#34;&gt;Sistema operativo previo: Android 15&lt;/h4&gt;&#xA;&lt;p&gt;Pasos:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Habilitar Desbloqueo de OEM&lt;/strong&gt; -&amp;gt; está en los opciones de desarrollador, que se activan pulsándooslo 5 veces en la opción “Número de compilación” en Ajustes -&amp;gt; Información del teléfono.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Seguir todos los pasos de la &lt;strong&gt;&lt;a href=&#34;https://grapheneos.org/install/web&#34;&gt;instalación web&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Compilando Aseprite en Ubuntu</title>
+      <link>https://krpntrz.xyz/compilando-aseprite-en-ubuntu/</link>
+      <pubDate>Tue, 05 Nov 2024 20:30:50 +0200</pubDate>
+      <guid>https://krpntrz.xyz/compilando-aseprite-en-ubuntu/</guid>
+      <description>&lt;p&gt;En mis aventuras como aprendiz de desarrollo de videojuegos y curioso profesional, me he topado con la necesidad de realizar algunas animaciones e ilustraciones del tipo pixel art.&#xA;Pueden generarse con &lt;a href=&#34;https://krita.org/es/&#34;&gt;Krita&lt;/a&gt;, &lt;a href=&#34;https://www.gimp.org/&#34;&gt;Gimp&lt;/a&gt;, realizando algunas modificaciones en fondos y pinceles, pero hay una aplicación específica (una entre otras muchas). En este caso hablamos de &lt;a href=&#34;https://www.aseprite.org/&#34;&gt;Aseprite&lt;/a&gt;.&#xA;Un editor de sprites y una herramienta para diseño de pixel art.&lt;/p&gt;&#xA;&lt;p&gt;A través de su web podemos adquirir el software para Linux, Mac o Windows por 19,99$. Pero en sus términos y condiciones nos dicen lo siguiente:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Viendo el tiempo en consola</title>
+      <link>https://krpntrz.xyz/viendo-el-tiempo-en-consola/</link>
+      <pubDate>Sun, 09 Jun 2024 08:48:50 +0200</pubDate>
+      <guid>https://krpntrz.xyz/viendo-el-tiempo-en-consola/</guid>
+      <description>&lt;p&gt;En esta entrada rápida quiero compartir un recurso para chequear el reporte del tiempo directamente en consola, de forma muy rápida.&#xA;El servicio que vamos a estar utilizando es &lt;a href=&#34;wwttr.in&#34;&gt;wttr.in&lt;/a&gt;, un recurso creado por &lt;em&gt;Igor Chubin&lt;/em&gt;.&#xA;Aquí podéis revisar el repositorio del &lt;a href=&#34;https://github.com/chubin/wttr.in&#34;&gt;proyecto&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;En mi caso he creado un alias en &lt;em&gt;.zshrc&lt;/em&gt; (esto me lleva a pensar en futuras entradas sobre cambiar la SHELL por defecto de Arch y explicar que es zsh y cómo manejarla.)&#xA;Pero también puedes recrear los pasos de gestión de alias si tu SHELL por defecto es BASH, editando y añadiendo el alias en .bashrc&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Instalando Librewolf con yay</title>
-      <link>http://localhost:1313/instalando-librewolf-con-yay/</link>
+      <link>https://krpntrz.xyz/instalando-librewolf-con-yay/</link>
       <pubDate>Sat, 25 May 2024 09:16:50 +0200</pubDate>
-      <guid>http://localhost:1313/instalando-librewolf-con-yay/</guid>
-      <description>Librewolf es un navegador basado en Firefox, que se centra en la seguridad, la privacidad y la libertad. Es un proyecto independiente del navegador del zorro. Busca aumentar la protección contra el rastreo. Sus características principales son:&#xA;No tiene telemetría Basado en búsqueda privada con DuckDuckGo, Searx y Quant Tiene el bloquedor uBlock Origin incluido por defecto Código abierto, por supuesto :) En tu sistema arch según la documentación de Librewolf podemos utilizar el helper yay (puedes consultar cómo instalar este helper en esta entrada)</description>
+      <guid>https://krpntrz.xyz/instalando-librewolf-con-yay/</guid>
+      <description>&lt;h2 id=&#34;librewolfhttpslibrewolfnet-es-un-navegador-basado-en-firefox-que-se-centra-en-la-seguridad-la-privacidad-y-la-libertad&#34;&gt;&lt;a href=&#34;https://librewolf.net/&#34;&gt;Librewolf&lt;/a&gt; es un navegador basado en Firefox, que se centra en la seguridad, la privacidad y la libertad.&lt;/h2&gt;&#xA;&lt;p&gt;Es un proyecto independiente del navegador del zorro. Busca aumentar la protección contra el rastreo. Sus características principales son:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No tiene telemetría&lt;/li&gt;&#xA;&lt;li&gt;Basado en búsqueda privada con DuckDuckGo, Searx y Quant&lt;/li&gt;&#xA;&lt;li&gt;Tiene el bloquedor uBlock Origin incluido por defecto&lt;/li&gt;&#xA;&lt;li&gt;Código abierto, por supuesto :)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;En tu sistema arch según la &lt;a href=&#34;https://librewolf.net/installation/arch/&#34;&gt;documentación&lt;/a&gt; de Librewolf podemos utilizar el helper &lt;strong&gt;yay&lt;/strong&gt; (puedes consultar cómo instalar este helper en &lt;a href=&#34;https://krpntrz.xyz/instalando-yay/&#34;&gt;esta entrada&lt;/a&gt;)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spacevim</title>
-      <link>http://localhost:1313/spacevim/</link>
+      <link>https://krpntrz.xyz/spacevim/</link>
       <pubDate>Wed, 15 May 2024 16:58:03 +0200</pubDate>
-      <guid>http://localhost:1313/spacevim/</guid>
-      <description>Spacevim es la recomendación de hoy. Se trata de un proyecto open source, que se basa en la configuración modular del editor de texto vim. En el ambiente linuxero serás observado con mirada extraña si no te ven picando código con emacs, vim, nano, neovim o similar (pun intended).&#xA;Para su instalación, desde su web nos dan este script que facilita todo el proceso.&#xA;curl -sLf https://spacevim.org/install.sh | bash Para echar un vistazo más en detalle al script podemos ejecutar el siguiente comando:</description>
+      <guid>https://krpntrz.xyz/spacevim/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://spacevim.org/&#34;&gt;Spacevim&lt;/a&gt; es la recomendación de hoy. Se trata de un proyecto open source, que se basa en la configuración modular del editor de texto &lt;a href=&#34;https://www.vim.org/&#34;&gt;vim&lt;/a&gt;. En el ambiente linuxero serás observado con mirada extraña si no te ven picando código con emacs, vim, nano, neovim o similar (pun intended).&lt;/p&gt;&#xA;&lt;p&gt;Para su instalación, desde su web nos dan este script que facilita todo el proceso.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;curl -sLf https://spacevim.org/install.sh | bash&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Para echar un vistazo más en detalle al script podemos ejecutar el siguiente comando:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Penpont: La herramienta de diseño open source</title>
-      <link>http://localhost:1313/penpont-la-herramienta-de-dise%C3%B1o-open-source/</link>
+      <link>https://krpntrz.xyz/penpont-la-herramienta-de-dise%C3%B1o-open-source/</link>
       <pubDate>Tue, 14 May 2024 21:11:03 +0200</pubDate>
-      <guid>http://localhost:1313/penpont-la-herramienta-de-dise%C3%B1o-open-source/</guid>
-      <description>Hoy en esta entrada rápida, me gustaría compartir una herramienta de diseño open source. La mejor que existe bajo mi punto de vista: Penpot, diseñada y creada en España por el equipo de Kaleidos.&#xA;Se trata de una herramienta que viene a mejorar Fidma, tendiendo en cuenta las necesidades tanto del equipo de diseño como del equipo de desarrollo.&#xA;Podéis probar sus virtudes tanto a través del navegador como de la opción de auto hospedar el servicio a través de Docker.</description>
+      <guid>https://krpntrz.xyz/penpont-la-herramienta-de-dise%C3%B1o-open-source/</guid>
+      <description>&lt;p&gt;Hoy en esta entrada rápida, me gustaría compartir una herramienta de diseño open source. La mejor que existe bajo mi punto de vista: &lt;strong&gt;&lt;a href=&#34;https://penpot.app/&#34;&gt;Penpot&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;diseñada y creada en España por el equipo de &lt;a href=&#34;https://kaleidos.net/&#34;&gt;Kaleidos&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Se trata de una herramienta que viene a mejorar Fidma, tendiendo en cuenta las necesidades tanto del equipo de diseño como del equipo de desarrollo.&lt;/p&gt;&#xA;&lt;p&gt;Podéis probar sus virtudes tanto a través del navegador como de la opción de auto hospedar el servicio a &lt;a href=&#34;https://help.penpot.app/technical-guide/getting-started/#install-with-docker&#34;&gt;través de Docker&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Instalando Yay</title>
-      <link>http://localhost:1313/instalando-yay/</link>
+      <link>https://krpntrz.xyz/instalando-yay/</link>
       <pubDate>Mon, 13 May 2024 21:45:50 +0200</pubDate>
-      <guid>http://localhost:1313/instalando-yay/</guid>
-      <description>En esta entrada corta quiero dejar reflejado el proceso de instalación del helper yay de Arch Linux. Un helper es una herramienta que facilita la gestión en la instalación y mantenimiento de los paquetes AUR (abreviatura de Arch User Repository), donde la comunidad sube las descripciones de los paquetes (PKGBUILD) que permiten compilar un paquete desde código fuente con makepkg para su posterior instalación con pacman.&#xA;Los pasos serían los siguientes:</description>
+      <guid>https://krpntrz.xyz/instalando-yay/</guid>
+      <description>&lt;p&gt;En esta entrada corta quiero dejar reflejado el proceso de instalación del helper &lt;a href=&#34;https://aur.archlinux.org/yay.git&#34;&gt;yay&lt;/a&gt; de Arch Linux. Un helper es una herramienta que facilita la gestión en la instalación y mantenimiento de los paquetes AUR (abreviatura de &lt;a href=&#34;https://wiki.archlinux.org/title/Arch_User_Repository_(Espa%C3%B1ol)&#34;&gt;Arch User Repository&lt;/a&gt;), donde la comunidad sube las descripciones de los paquetes (PKGBUILD) que permiten compilar un paquete desde código fuente con makepkg para su posterior instalación con pacman.&lt;/p&gt;&#xA;&lt;p&gt;Los pasos serían los siguientes:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Actualizar paquetes y sincronizar repositorios de pacman&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo pacman -Syu&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;Instalar los paquetes base-devel y git necesiarios para la gestión e instalación de yay&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo pacman -S base-devel git&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;Clonar el repositorio de yay&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git clone https://aur.archlinux.org/yay.git&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;4&#34;&gt;&#xA;&lt;li&gt;Entrar al directorio clonado y compilar el código fuente:&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cd yay&#xA;&#xA;makepkg -si&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Aceptando las preguntas en la instalación ya habríamos finalizado la instalación y podríamos proceder a instalar paquetes AUR.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hola Mundo</title>
-      <link>http://localhost:1313/hola-mundo/</link>
+      <link>https://krpntrz.xyz/hola-mundo/</link>
       <pubDate>Sun, 12 May 2024 10:32:03 +0200</pubDate>
-      <guid>http://localhost:1313/hola-mundo/</guid>
-      <description>Hola Mundo! Esto es una entrada de prueba, para testear que el flujo de actualización para la generación de páginas estáticas funciona. Este site está desarrollando mediante el generador de sitios estáticos hugo, con el tema hugo-bearblog desarrollado por Jan Raasch Mi idea es que este blog esté en constante cambio y tenga un buen nivel de actualización.&#xA;La inspiración para este proyecto se lo debo a los siguientes sites y usuarios de Mastodon.</description>
+      <guid>https://krpntrz.xyz/hola-mundo/</guid>
+      <description>&lt;h2 id=&#34;hola-mundo&#34;&gt;Hola Mundo!&lt;/h2&gt;&#xA;&lt;p&gt;Esto es una entrada de prueba, para testear que el flujo de actualización para la generación de páginas estáticas funciona.&#xA;Este site está desarrollando mediante el generador de sitios estáticos &lt;a href=&#34;https://gohugo.io&#34;&gt;hugo&lt;/a&gt;, con el tema &lt;a href=&#34;https://themes.gohugo.io/themes/hugo-bearblog/&#34;&gt;hugo-bearblog&lt;/a&gt; desarrollado por &lt;a href=&#34;https://www.janraasch.com/&#34;&gt;Jan Raasch&lt;/a&gt;&#xA;Mi idea es que este blog esté en constante cambio y tenga un buen nivel de actualización.&lt;/p&gt;&#xA;&lt;p&gt;La inspiración para este proyecto se lo debo a los siguientes sites y usuarios de Mastodon. Me considero un usuario novel en esto del mundo federado y Mastodo, pero he encontrado un nicho en la web en la que me siento representado y agusto consumiendo contenido generado por y para personas, sin las complicaciones de los intereses comerciales.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
