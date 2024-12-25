@@ -39,6 +39,5 @@ Y aquí dejo la sabiduría que he ido necesitando estos días pasados para un pa
 Felices fiestas y que la paz informática os acompañe en vuestras noches de cacharreo.
 
 Gracias por leer :)
-s
 
 
