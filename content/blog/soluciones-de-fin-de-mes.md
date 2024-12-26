@@ -1,7 +1,7 @@
 +++
 title = "Soluciones De Fin De Mes"
 date = "2024-12-25T21:16:05+01:00"
-tags = ["Teclado","Git","novato", "GRUB", "Dual Boot" ]
+tags = ["Teclado","Git","Novato","GRUB","Dual Boot" ]
 +++
 
 #### Hay veces que el tema tecnológico y más específicamente, el informático es algo puñetero.
