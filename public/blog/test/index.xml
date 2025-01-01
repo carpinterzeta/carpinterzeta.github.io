@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test on Krpntrz Blog</title>
-    <link>https://krpntrz.xyz/blog/test/</link>
+    <link>http://localhost:1313/blog/test/</link>
     <description>Recent content in Test on Krpntrz Blog</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
     <copyright>Copyright © 2024, krpntrz.</copyright>
     <lastBuildDate>Sun, 12 May 2024 10:32:03 +0200</lastBuildDate>
-    <atom:link href="https://krpntrz.xyz/blog/test/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hola Mundo</title>
-      <link>https://krpntrz.xyz/hola-mundo/</link>
+      <link>http://localhost:1313/hola-mundo/</link>
       <pubDate>Sun, 12 May 2024 10:32:03 +0200</pubDate>
-      <guid>https://krpntrz.xyz/hola-mundo/</guid>
+      <guid>http://localhost:1313/hola-mundo/</guid>
       <description>&lt;h2 id=&#34;hola-mundo&#34;&gt;Hola Mundo!&lt;/h2&gt;&#xA;&lt;p&gt;Esto es una entrada de prueba, para testear que el flujo de actualización para la generación de páginas estáticas funciona.&#xA;Este site está desarrollando mediante el generador de sitios estáticos &lt;a href=&#34;https://gohugo.io&#34;&gt;hugo&lt;/a&gt;, con el tema &lt;a href=&#34;https://themes.gohugo.io/themes/hugo-bearblog/&#34;&gt;hugo-bearblog&lt;/a&gt; desarrollado por &lt;a href=&#34;https://www.janraasch.com/&#34;&gt;Jan Raasch&lt;/a&gt;&#xA;Mi idea es que este blog esté en constante cambio y tenga un buen nivel de actualización.&lt;/p&gt;&#xA;&lt;p&gt;La inspiración para este proyecto se lo debo a los siguientes sites y usuarios de Mastodon. Me considero un usuario novel en esto del mundo federado y Mastodo, pero he encontrado un nicho en la web en la que me siento representado y agusto consumiendo contenido generado por y para personas, sin las complicaciones de los intereses comerciales.&lt;/p&gt;</description>
     </item>
   </channel>
