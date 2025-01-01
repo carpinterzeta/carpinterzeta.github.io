@@ -1,6 +1,6 @@
 +++
 title = "Propósitos de fin de año - 2025"
-date = "2025-01-09T08:48:50+02:00"
+date = "2025-01-01T08:00:00+02:00"
 tags = ["Reflexiones"]
 +++
 
