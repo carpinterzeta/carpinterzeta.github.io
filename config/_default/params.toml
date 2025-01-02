@@ -43,13 +43,13 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/IMAGE.jpg" # used in: hero, and card
+  homepageImage = "img/IMAGE.webp" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
   showMoreLink = true 
   showMoreLinkDest = "/blog/"
-  cardView = false
-  cardViewScreenWidth = true
+  cardView = true
+  cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
@@ -58,13 +58,13 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = false
-  showAuthor = false
-  # showAuthorBottom = false
+  showAuthor = true
+  showAuthorBottom = false
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
