@@ -2,111 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Krpntrz</title>
-    <link>http://localhost:1313/</link>
+    <link>https://krpntrz.xyz/</link>
     <description>Recent content on Krpntrz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <managingEditor>krpntrz@disroot.org (Krpntrz)</managingEditor>
     <webMaster>krpntrz@disroot.org (Krpntrz)</webMaster>
     <copyright>Ak4rp - 2025 CC by SA 4.0</copyright>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://krpntrz.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Propósitos de fin de año - 2024</title>
-      <link>http://localhost:1313/blog/propositos-de-fin-de-a%C3%B1o-2024/</link>
+      <link>https://krpntrz.xyz/blog/propositos-de-fin-de-a%C3%B1o-2024/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <author>krpntrz@disroot.org (Krpntrz)</author>
-      <guid>http://localhost:1313/blog/propositos-de-fin-de-a%C3%B1o-2024/</guid>
+      <guid>https://krpntrz.xyz/blog/propositos-de-fin-de-a%C3%B1o-2024/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Soluciones de fin de mes</title>
-      <link>http://localhost:1313/blog/soluciones-de-fin-de-mes/</link>
+      <link>https://krpntrz.xyz/blog/soluciones-de-fin-de-mes/</link>
       <pubDate>Wed, 25 Dec 2024 21:16:05 +0100</pubDate>
       <author>krpntrz@disroot.org (Krpntrz)</author>
-      <guid>http://localhost:1313/blog/soluciones-de-fin-de-mes/</guid>
+      <guid>https://krpntrz.xyz/blog/soluciones-de-fin-de-mes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Instalando GrapheneOS</title>
-      <link>http://localhost:1313/blog/instalando-graphene-os/</link>
+      <link>https://krpntrz.xyz/blog/instalando-graphene-os/</link>
       <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
       <author>krpntrz@disroot.org (Krpntrz)</author>
-      <guid>http://localhost:1313/blog/instalando-graphene-os/</guid>
+      <guid>https://krpntrz.xyz/blog/instalando-graphene-os/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Compilando Aseprite en Ubuntu</title>
-      <link>http://localhost:1313/blog/compilando-aseprite-en-ubuntu/</link>
+      <link>https://krpntrz.xyz/blog/compilando-aseprite-en-ubuntu/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
       <author>krpntrz@disroot.org (Krpntrz)</author>
-      <guid>http://localhost:1313/blog/compilando-aseprite-en-ubuntu/</guid>
+      <guid>https://krpntrz.xyz/blog/compilando-aseprite-en-ubuntu/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Viendo el tiempo en consola</title>
-      <link>http://localhost:1313/blog/tiempo-en-consola/</link>
+      <link>https://krpntrz.xyz/blog/tiempo-en-consola/</link>
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
       <author>krpntrz@disroot.org (Krpntrz)</author>
-      <guid>http://localhost:1313/blog/tiempo-en-consola/</guid>
+      <guid>https://krpntrz.xyz/blog/tiempo-en-consola/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Instalando Librewolf con yay</title>
-      <link>http://localhost:1313/blog/instalando-librewolf-con-yay/</link>
+      <link>https://krpntrz.xyz/blog/instalando-librewolf-con-yay/</link>
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
       <author>krpntrz@disroot.org (Krpntrz)</author>
-      <guid>http://localhost:1313/blog/instalando-librewolf-con-yay/</guid>
+      <guid>https://krpntrz.xyz/blog/instalando-librewolf-con-yay/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Spacevim</title>
-      <link>http://localhost:1313/blog/spacevim/</link>
+      <link>https://krpntrz.xyz/blog/spacevim/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       <author>krpntrz@disroot.org (Krpntrz)</author>
-      <guid>http://localhost:1313/blog/spacevim/</guid>
+      <guid>https://krpntrz.xyz/blog/spacevim/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Penpont: La herramienta de diseño open source</title>
-      <link>http://localhost:1313/blog/penpot/</link>
+      <link>https://krpntrz.xyz/blog/penpot/</link>
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
       <author>krpntrz@disroot.org (Krpntrz)</author>
-      <guid>http://localhost:1313/blog/penpot/</guid>
+      <guid>https://krpntrz.xyz/blog/penpot/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Instalando Yay</title>
-      <link>http://localhost:1313/blog/instalando-yay/</link>
+      <link>https://krpntrz.xyz/blog/instalando-yay/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       <author>krpntrz@disroot.org (Krpntrz)</author>
-      <guid>http://localhost:1313/blog/instalando-yay/</guid>
+      <guid>https://krpntrz.xyz/blog/instalando-yay/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>¡Hola mundo!</title>
-      <link>http://localhost:1313/blog/hola-mundo/</link>
+      <link>https://krpntrz.xyz/blog/hola-mundo/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       <author>krpntrz@disroot.org (Krpntrz)</author>
-      <guid>http://localhost:1313/blog/hola-mundo/</guid>
+      <guid>https://krpntrz.xyz/blog/hola-mundo/</guid>
       <description></description>
       
     </item>
