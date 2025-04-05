@@ -6,7 +6,7 @@ description: Cómo usar scp y en qué consiste
 tags: ["Herramientas", "SCP", "Linux", "Software libre"]
 ---
 
-SCP son las siglas de Secure Cransfer Protocol y es una herramienta que se ejecuta desde la línea de comandos para copiar archivos entre diferentes máquinas dentro de una red, utilizando el puerto de SSH (Secure Shell) mediante el protocolo SFTP (Secure File Transfer Protocol).
+SCP son las siglas de Secure Copy Protocol y es una herramienta que se ejecuta desde la línea de comandos para copiar archivos entre diferentes máquinas dentro de una red, utilizando el puerto de SSH (Secure Shell) mediante el protocolo SFTP (Secure File Transfer Protocol).
 
 SCP está basado en RCP (Remote File Copy) que apareció por primera vez en el sistema 4.2BSD
 
