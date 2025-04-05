@@ -3,74 +3,85 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://krpntrz.xyz/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/reflexiones-13012025/</loc>
+    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/propositos-de-fin-de-a%C3%B1o-2024/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://krpntrz.xyz/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://krpntrz.xyz/blog/propositos-de-fin-de-a%C3%B1o-2024/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://krpntrz.xyz/blog/soluciones-de-fin-de-mes/</loc>
+    <loc>http://localhost:1313/blog/soluciones-de-fin-de-mes/</loc>
     <lastmod>2024-12-25T21:16:05+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://krpntrz.xyz/blog/instalando-graphene-os/</loc>
+    <loc>http://localhost:1313/blog/instalando-graphene-os/</loc>
     <lastmod>2024-11-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://krpntrz.xyz/blog/compilando-aseprite-en-ubuntu/</loc>
+    <loc>http://localhost:1313/blog/compilando-aseprite-en-ubuntu/</loc>
     <lastmod>2024-11-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://krpntrz.xyz/blog/tiempo-en-consola/</loc>
+    <loc>http://localhost:1313/blog/tiempo-en-consola/</loc>
     <lastmod>2024-06-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://krpntrz.xyz/blog/instalando-librewolf-con-yay/</loc>
+    <loc>http://localhost:1313/blog/instalando-librewolf-con-yay/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://krpntrz.xyz/blog/spacevim/</loc>
+    <loc>http://localhost:1313/blog/spacevim/</loc>
     <lastmod>2024-05-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://krpntrz.xyz/blog/penpot/</loc>
+    <loc>http://localhost:1313/blog/penpot/</loc>
     <lastmod>2024-05-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://krpntrz.xyz/blog/instalando-yay/</loc>
+    <loc>http://localhost:1313/blog/instalando-yay/</loc>
     <lastmod>2024-05-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://krpntrz.xyz/blog/hola-mundo/</loc>
+    <loc>http://localhost:1313/blog/hola-mundo/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/como-usar-scp/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
