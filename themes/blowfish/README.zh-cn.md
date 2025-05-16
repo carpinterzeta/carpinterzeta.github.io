@@ -1,7 +1,6 @@
-[English](https://github.com/nunocoracao/blowfish/blob/main/README.md) | 简体中文
+[English](https://github.com/nunocoracao/blowfish/blob/main/README.md) | [Indonesian](https://github.com/nunocoracao/blowfish/blob/main/README.id.md) | 简体中文 | [日本語](https://github.com/nunocoracao/blowfish/blob/main/README.ja.md)
 # Blowfish
-[![Deploy Production to Firebase](https://github.com/nunocoracao/blowfish/actions/workflows/firebase-production.yml/badge.svg)](https://github.com/nunocoracao/blowfish/actions/workflows/firebase-production.yml)
-[![Deploy Production to GitHub pages](https://github.com/nunocoracao/blowfish/actions/workflows/pages.yml/badge.svg)](https://github.com/nunocoracao/blowfish/actions/workflows/pages.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6e5256d4-3148-4d69-879c-310341020fe9/deploy-status)](https://app.netlify.com/sites/snazzy-dango-efb2ec/deploys)
 [![Minimum Hugo Version](https://img.shields.io/static/v1?label=min-HUGO-version&message=0.87.0&color=blue&logo=hugo)](https://github.com/gohugoio/hugo/releases/tag/v0.87.0)
 [![GitHub](https://img.shields.io/github/license/nunocoracao/blowfish)](https://github.com/nunocoracao/blowfish/blob/main/LICENSE)
 [![Blowfish](https://img.shields.io/badge/Hugo--Themes-@Blowfish-blue)](https://themes.gohugo.io/themes/blowfish/)
@@ -116,7 +115,7 @@ blowfish-tools new mynewsite
 
 3. 在你网站的根目录中删除由 Hugo 自动生成的 `config.toml`文件，并把主题文件夹中的`*.toml`配置文件复制到你的 `config/_default/`文件夹中
 
-   你可在 Hugo 缓存目录中找到主题配置文件，或者也可以从[这里](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nunocoracao/blowfish/tree/main/config/_default)下载一份。
+   你可在 Hugo 缓存目录中找到主题配置文件，或者也可以从[这里](https://github.com/nunocoracao/blowfish/releases/latest/download/config-default.zip)下载一份。
 
 4. 按照[入门指南](https://blowfish.page/zh-cn/docs/getting-started/)来配置你的网站
 
@@ -143,7 +142,7 @@ blowfish-tools new mynewsite
 
    > **注** 不要覆盖之前的 `module.toml` ！
 
-   你可在 Hugo 缓存目录中找到主题配置文件，或者也可以从[这里](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nunocoracao/blowfish/tree/main/config/_default)下载一份。
+   你可在 Hugo 缓存目录中找到主题配置文件，或者也可以从[这里](https://github.com/nunocoracao/blowfish/releases/latest/download/config-default.zip)下载一份。
 
 5. 按照[入门指南](https://blowfish.page/zh-cn/docs/getting-started/)来配置你的网站
 
