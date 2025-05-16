@@ -12,11 +12,11 @@ Hay cosas que quiero cambiar relacionadas con este blog:
 
 ## 1. Aumentar el número de publicaciones
 
-Por lo que tengo que dedicarle un tiempo fijo al día a escribir, o al menos a la semana. Esto es una relación directa entre tiempo dedicado y palabras escritas, no hay mucha chicha.
+La solución pasa por dedicarle un tiempo fijo al día a escribir, o al menos a la semana. Esto es una relación directa entre tiempo dedicado y palabras escritas, no hay mucha chicha.
 
 ## 2. Adiós a Github, quiero ser libre
 
-Es decir, modificar la tecnología que permite ahora mismo la publicación del blog. Está hospedado en Github a través de Github Pages y el despliegue lo realizo a través de Github Actions, de forma automatizada. Esto tendría solución investigando otras opciones más libres como pueden ser Gitlab, Codeberg, Gitea. Podría alojarlo en un minipc que tengo en casa como laboratorio para realizar esta tarea, pero tengo que investigar el tema de si existe algo parecido a Github Actions, o montarme algún script que me permitiera desplegar el sitio web directamente, ya que Hugo te exporta un sitio estático directamente para su publicación en la red. Aquí empieza a abrirse la puerta de auto-alojar el blog en casa. Algo que enlaza con el siguiente punto:
+Es decir, modificar la tecnología que permite ahora mismo la publicación del blog. Está hospedado en Github a través de Github Pages y el despliegue lo realizo a través de Github Actions, de forma automatizada. Esto tendría solución investigando otras opciones más libres como pueden ser Gitlab, Codeberg, Gitea. Podría alojarlo en un minipc que tengo en casa como laboratorio para realizar esta tarea, pero tengo que investigar el tema de si existe algo parecido a Github Actions, o montarme algún script que me permitiera desplegar el sitio web, ya que Hugo te exporta un sitio estático para su publicación en la red. Aquí empieza a abrirse la puerta de auto-alojar el blog en casa. Algo que enlaza con el siguiente punto:
 
 ## 3. Cloudflare, Tebas y la dictadura de la oligarquía futbolística fastidiando a la web pequeña (y no tan pequeña)
 
