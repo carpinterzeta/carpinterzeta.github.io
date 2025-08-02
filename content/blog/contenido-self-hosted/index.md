@@ -1,6 +1,6 @@
 ---
 title: "Aplicaciones y servicios autoalojados en mi servidor casero"
-date: 2025-08-2
+date: 2025-08-02
 draft: false
 description: Selección de aplicaciones y servicios que tengo autoalojados en mi servidor casero
 tags:
