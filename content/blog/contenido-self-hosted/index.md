@@ -16,9 +16,9 @@ tags:
 
 Por aquí dejo un listado del equipo y el software que utilizo para los servicios que tengo autoalojados. Me permiten tener un mayor control sobre mi privacidad, gestionar mis documentos y notas, música, videos, fotos, etc.
 Suelo levantar los servicios mediante docker en diferentes máquinas virtuales (en Debian y Alpine Linux sobre todo)
-Proxmox también me permite "cacharrear" a buenos niveles de intensidad, así como tener los diferentes servicios encapsulados y separados junto a un sistema fiable y robusto de backup.
+Proxmox también me permite "cacharrear" a buenos niveles de intensidad, así como tener los diferentes servicios encapsulados y separados junto a un sistema fiable y robusto de copias de seguridad.
 
-**Equipo**: Un minipc con un procesador Intel N100 y 16gb de RAM)
+**Equipo**: Un minipc con un procesador Intel N100 y 16gb de RAM.
 
 **Sistema operativo**: [Proxmox Virtual Environment](https://www.proxmox.com)
 
@@ -51,4 +51,4 @@ Es cierto que Joplin me permite una mayor libertad de sincronización, ya que cu
 
 - [**Transmission** ](https://transmissionbt.com/)un gestor de descargas de torrents.
 
-\*Actualizado a fecha de 2 de agosto de 2025
+\*_Actualizado a fecha de 2 de agosto de 2025_
