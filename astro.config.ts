@@ -115,7 +115,7 @@ export default defineConfig({
   // https://docs.astro.build/en/guides/prefetch/
   prefetch: true,
   // ! Please remember to replace the following site property with your own domain
-  site: "https://carpinterzeta.github.io",
+  site: "https://krpntrz.xyz",
   vite: {
     build: {
       sourcemap: true, // Source maps generation
