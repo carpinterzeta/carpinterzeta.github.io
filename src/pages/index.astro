@@ -11,8 +11,8 @@ import { collectionDateSort } from "@/utils/date";
 const MAX_POSTS = 10;
 const allPosts = await getAllPosts();
 const allPostsByDate = allPosts
-	.sort(collectionDateSort)
-	.slice(0, MAX_POSTS) as CollectionEntry<"post">[];
+  .sort(collectionDateSort)
+  .slice(0, MAX_POSTS) as CollectionEntry<"post">[];
 
 // Notes
 const MAX_NOTES = 2;
@@ -21,79 +21,103 @@ const latestNotes = allNotes.sort(collectionDateSort).slice(0, MAX_NOTES);
 ---
 
 <PageLayout meta={{ title: "Home" }}>
-	<!-- Hero section -->
-	<!-- Background blur -->
-	<div class="absolute top-0 left-1/2 md:top-[-15%] -ml-[50vw] min-h-screen w-screen pointer-events-none blur-3xl opacity-50 overflow-x-hidden">
-		<div class="absolute top-[10%] right-[-40%] w-[65%] h-full bg-gradient-to-b from-purple-300 via-blue-300 to-transparent rounded-full opacity-30 dark:opacity-10"></div>
-		<div class="absolute top-[10%] left-[-40%] w-[65%] h-full bg-gradient-to-b from-blue-300 via-pink-300 to-transparent rounded-full opacity-30 dark:opacity-10"></div>
-		<div class="absolute top-[-20%] left-[-50%] w-[85%] h-full bg-gradient-to-b from-indigo-300 via-orange-300 to-transparent rounded-full opacity-60 dark:opacity-10"></div>
-		<div class="absolute top-[-20%] right-[-50%] w-[85%] h-full bg-gradient-to-b from-orange-300 via-indigo-300 to-transparent rounded-full opacity-60 dark:opacity-10"></div>
-	</div>
-	<section class="max-w-xl mx-auto relative flex items-center justify-center h-screen -mt-24">
-		<div class="w-full text-center">
-			<span class="title text-3xl bg-gradient-to-r from-accent-two/85 via-accent-one/85 to-accent-two/85 dark:from-accent-two dark:via-accent-one dark:to-accent-two bg-clip-text text-transparent">
-				Introducing Astro Citrus!
-			</span>
-			<p class="mt-4 mb-4 text-lg font-medium">
-				Hi, I’m an Astro theme for building websites or blogs. To customize, add posts, or make it yours, click the GitHub icon below to visit my repo.
-			</p>
-			<div class="flex justify-center mb-4">
-				<SocialList />
-			</div>
-			<div class="flex justify-center space-x-4 mt-4">
-				<a href="/posts/" class="relative flex items-center justify-center h-8 px-4 rounded-lg shadow-lg hover:brightness-110 transition-all bg-gradient-to-r from-accent-one to-accent-two">
-					<span class="text-bgColor font-semibold">
-						Read Blog
-					</span>
-				</a>
+  <!-- Hero section -->
+  <!-- Background blur -->
+  <div
+    class="absolute top-0 left-1/2 md:top-[-15%] -ml-[50vw] min-h-screen w-screen pointer-events-none blur-3xl opacity-50 overflow-x-hidden"
+  >
+    <div
+      class="absolute top-[10%] right-[-40%] w-[65%] h-full bg-gradient-to-b from-purple-300 via-blue-300 to-transparent rounded-full opacity-30 dark:opacity-10"
+    >
+    </div>
+    <div
+      class="absolute top-[10%] left-[-40%] w-[65%] h-full bg-gradient-to-b from-blue-300 via-pink-300 to-transparent rounded-full opacity-30 dark:opacity-10"
+    >
+    </div>
+    <div
+      class="absolute top-[-20%] left-[-50%] w-[85%] h-full bg-gradient-to-b from-indigo-300 via-orange-300 to-transparent rounded-full opacity-60 dark:opacity-10"
+    >
+    </div>
+    <div
+      class="absolute top-[-20%] right-[-50%] w-[85%] h-full bg-gradient-to-b from-orange-300 via-indigo-300 to-transparent rounded-full opacity-60 dark:opacity-10"
+    >
+    </div>
+  </div>
+  <section>
+    <div class="w-full text-center">
+      <span
+        class="title text-3xl bg-gradient-to-r from-accent-two/85 via-accent-one/85 to-accent-two/85 dark:from-accent-two dark:via-accent-one dark:to-accent-two bg-clip-text text-transparent"
+      >
+        Bienvenid@!
+      </span>
+      <p class="mt-4 mb-4 text-lg font-medium">
+        Este es mi blog personal. Pretende ser una web sencilla, respetuosa y
+        entretenida. Entra y ponte cómod@. Podrás encontrar textos relacionados
+        con diferentes temáticas: tecnología, cultura, medios de comunicación,
+        videojuegos, GNU/Linux… En fin, todo sobre lo que voy reflexionando o
+        quiero guardar un recuerdo escrito.
+      </p>
+      <div class="flex justify-center mb-4">
+        <SocialList />
+      </div>
+      <div class="flex justify-center space-x-4 mt-4">
+        <a
+          href="/posts/"
+          class="relative flex items-center justify-center h-8 px-4 rounded-lg shadow-lg hover:brightness-110 transition-all bg-gradient-to-r from-accent-one to-accent-two"
+        >
+          <span class="text-bgColor font-semibold"> Blog </span>
+        </a>
 
-				<a href="/notes/wake-up/" class="relative flex items-center justify-center h-8 px-4 rounded-lg shadow-lg bg-special-lighter hover:brightness-110 hover:bg-special-lightest">
-					<span class="bg-clip-text text-transparent font-semibold bg-gradient-to-r from-accent-one to-accent-two">
-						Wake up
-					</span>
-				</a>
-			</div>
-		</div>
-	</section>
+        <a
+          href="/notes/"
+          class="relative flex items-center justify-center h-8 px-4 rounded-lg shadow-lg bg-special-lighter hover:brightness-110 hover:bg-special-lightest"
+        >
+          <span
+            class="bg-clip-text text-transparent font-semibold bg-gradient-to-r from-accent-one to-accent-two"
+          >
+            Ahora
+          </span>
+        </a>
+      </div>
+    </div>
+  </section>
+  <!-- Posts Section -->
+  <section aria-label="Blog post list" class="'mt-0 pt-0'">
+    <h2 class="title mb-6 text-xl text-accent-two">
+      <a href="/posts/">Últimas publicaciones</a>
+    </h2>
+    <ul class="space-y-4 md:space-y-2" role="list">
+      {
+        allPostsByDate.map((p) => (
+          <li class="gap-2 sm:grid-cols-[auto_1fr]">
+            <PostPreview post={p} />
+          </li>
+        ))
+      }
+    </ul>
+  </section>
 
-	<!-- Posts Section -->
-	<section aria-label="Blog post list" class="'mt-[-100vh] pt-[100vh]'">
-		<h2 class="title mb-6 text-xl text-accent-two">
-			<a href="/posts/">Posts</a>
-		</h2>
-		<ul class="space-y-4 md:space-y-2" role="list">
-			{
-				allPostsByDate.map((p) => (
-					<li class="gap-2 sm:grid-cols-[auto_1fr]">
-						<PostPreview post={p} />
-					</li>
-				))
-			}
-		</ul>
-	</section>
+  <!-- Notes Section
+  {
+    latestNotes.length > 0 && (
+      <section class="mt-12">
+        <h2 class="title mb-6 text-accent-two">
+          <a href="/notes/">Notes</a>
+        </h2>
+        <div class="grid grid-cols-1 gap-8 sm:grid-cols-2">
+          {latestNotes.map((note) => (
+            <div>
+              <Note note={note} as="h4" isPreview />
+            </div>
+          ))}
+        </div>
+      </section>
+    )
+  }
+  -->
 
-	<!-- Notes Section -->
-	{
-		latestNotes.length > 0 && (
-			<section class="mt-12">
-				<h2 class="title mb-6 text-accent-two">
-					<a href="/notes/">Notes</a>
-				</h2>
-				<div class="grid grid-cols-1 gap-8 sm:grid-cols-2">
-					{
-						latestNotes.map((note) => (
-							<div>
-								<Note note={note} as="h4" isPreview />
-							</div>
-						))
-					}
-				</div>
-			</section>
-		)
-	}
-
-	<!-- Debug -->
-	<!--
+  <!-- Debug -->
+  <!--
 	<div class="flex justify-between flex-wrap gap-y-1.5 mt-6 text-sm font-medium">
 		<div class="text-center content-center h-10 w-10 bg-color-50"><span class="text-textColor">50</span></div>
 		<div class="text-center content-center h-10 w-10 bg-color-75"><span class="text-textColor">75</span></div>
@@ -126,4 +150,3 @@ const latestNotes = allNotes.sort(collectionDateSort).slice(0, MAX_NOTES);
 	</div>
 	-->
 </PageLayout>
-
