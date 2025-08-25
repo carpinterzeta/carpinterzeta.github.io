@@ -1,7 +1,7 @@
 ---
 title: "Blogroll"
 publishDate: 2024-05-01
-updatedDate: "24 Aug 2025"
+updatedDate: "25 Aug 2025"
 draft: false
 description: "De los de toda la vida"
 tags:
@@ -28,3 +28,4 @@ tags:
 - [Blog de Cris92](https://ccriss92.bearblog.dev/)
 - [El pingüinos Tolkiano](https://elpinguinotolkiano.wordpress.com/)
 - [Diego López](https://diegologs.com/)
+- [La bitácora del pequeño aprendiz](https://altgr.xyz/)
