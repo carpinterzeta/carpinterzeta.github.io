@@ -1,5 +1,4 @@
 ---
-import Search from "@/components/Search.astro";
 import ThemeToggle from "@/components/ThemeToggle.astro";
 import { siteConfig, menuLinks } from "@/site.config";
 import { Icon } from "astro-icon/components";
@@ -79,48 +78,11 @@ import { Icon } from "astro-icon/components";
         }
       </nav>
 
-      <!-- Dropdown menu for large screens. Needs improvement. -->
-      <!--
-			<div id="menu" class="absolute left-0 right-0 w-fit ml-auto top-16 z-10 hidden" aria-hidden="true">
-				<div
-					id="menu-body"
-					class="fixed bg-bgColor rounded-lg -ml-56 w-56"
-				>
-					<nav
-						aria-label="Main menu"
-						class="px-4 py-4 rounded-lg border border-special-lighter bg-special-light shadow-[0px_10px_25px_rgba(0,0,0,0.15)] text-sm flex flex-col gap-y-2 font-medium"
-						id="main-navigation-menu"
-					>
-						{
-							menuLinks.map((link) => (
-								<a
-									aria-current={Astro.url.pathname === link.path ? "page" : false}
-									class="text-accent-two underline-offset-2 hover:underline rounded-lg h-8 gap-x-1 px-2 flex justify-center items-center"
-									data-astro-prefetch
-									href={link.path}
-								>
-									{link.title}
-								</a>
-							))
-						}
-						<a
-							class="flex h-8 items-center justify-center rounded-lg bg-accent-base/5 hover:bg-accent-base/10 px-4 text-accent-base"
-							data-astro-prefetch
-							href="/posts/citrus-docs/intro/"
-						>
-							Docs
-						</a>
-					</nav>
-				</div>
-			</div>
-			-->
-
       <div class="ml-auto w-fit">
         <div
           id="buttons-panel"
           class="top-4 md:top-8 -ml-[4.5rem] flex space-x-2"
         >
-          <Search />
           <ThemeToggle />
         </div>
       </div>
@@ -157,16 +119,9 @@ import { Icon } from "astro-icon/components";
     id="drawer-body"
     class="absolute inset-0 -translate-y-full transform bg-bgColor transition-all duration-300 ease-in-out"
   >
-    <!-- Background 
-			TODO: This approach is not optimal and requires improvements. 
-  			- Too many absolutely positioned elements can affect performance. 
-  		-->
     <div
       class="fixed top-0 left-1/2 -ml-[50vw] w-screen pointer-events-none min-h-screen overflow-x-hidden overflow-y-visible blur-2xl"
     >
-      <!--
-				<div class="fixed blur-xl top-0 left-0 w-full h-16 md:h-20 bg-gradient-to-b from-indigo-300 via-purple-300 to-transparent opacity-10 dark:opacity-5"></div>
-				-->
       <div
         class="absolute top-[-90%] right-[25%] w-[75%] h-full bg-gradient-to-b from-blue-300 via-pink-300 to-transparent rounded-full opacity-40 dark:opacity-5"
       >
@@ -206,7 +161,6 @@ import { Icon } from "astro-icon/components";
       class="text-lg absolute inset-0 flex flex-col items-center justify-center gap-y-4 text-center font-medium text-accent-two"
       id="nav-menu-mobile"
     >
-      <!-- Ссылки меню -->
       {
         menuLinks.map((link) => (
           <a
@@ -219,13 +173,6 @@ import { Icon } from "astro-icon/components";
           </a>
         ))
       }
-      <a
-        class="flex h-8 items-center rounded-lg bg-accent-base/5 px-4 text-accent-base underline-offset-2 hover:bg-accent-base/10"
-        data-astro-prefetch
-        href="/series/citrus-docs"
-      >
-        Docs
-      </a>
     </nav>
   </div>
 </div>

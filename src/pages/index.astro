@@ -2,29 +2,21 @@
 import { type CollectionEntry, getCollection } from "astro:content";
 import SocialList from "@/components/SocialList.astro";
 import PostPreview from "@/components/blog/PostPreview.astro";
-import Note from "@/components/note/Note.astro";
 import { getAllPosts } from "@/data/post";
 import PageLayout from "@/layouts/Base.astro";
 import { collectionDateSort } from "@/utils/date";
 
 // Posts
-const MAX_POSTS = 10;
+const MAX_POSTS = 12;
 const allPosts = await getAllPosts();
 const allPostsByDate = allPosts
   .sort(collectionDateSort)
   .slice(0, MAX_POSTS) as CollectionEntry<"post">[];
-
-// Notes
-const MAX_NOTES = 2;
-const allNotes = await getCollection("note");
-const latestNotes = allNotes.sort(collectionDateSort).slice(0, MAX_NOTES);
 ---
 
 <PageLayout meta={{ title: "Home" }}>
-  <!-- Hero section -->
-  <!-- Background blur -->
   <div
-    class="absolute top-0 left-1/2 md:top-[-15%] -ml-[50vw] min-h-screen w-screen pointer-events-none blur-3xl opacity-50 overflow-x-hidden"
+    class="absolute top-0 left-1/2 md:top-[-15%] -ml-[50vw] min-h-screen w-screen pointer-events-none blur-3xl opady-50 overflow-x-hidden"
   >
     <div
       class="absolute top-[10%] right-[-40%] w-[65%] h-full bg-gradient-to-b from-purple-300 via-blue-300 to-transparent rounded-full opacity-30 dark:opacity-10"
@@ -82,7 +74,7 @@ const latestNotes = allNotes.sort(collectionDateSort).slice(0, MAX_NOTES);
     </div>
   </section>
   <!-- Posts Section -->
-  <section aria-label="Blog post list" class="'mt-0 pt-0'">
+  <section aria-label="Blog post list" class="mt-12">
     <h2 class="title mb-6 text-xl text-accent-two">
       <a href="/posts/">Últimas publicaciones</a>
     </h2>
@@ -96,57 +88,4 @@ const latestNotes = allNotes.sort(collectionDateSort).slice(0, MAX_NOTES);
       }
     </ul>
   </section>
-
-  <!-- Notes Section
-  {
-    latestNotes.length > 0 && (
-      <section class="mt-12">
-        <h2 class="title mb-6 text-accent-two">
-          <a href="/notes/">Notes</a>
-        </h2>
-        <div class="grid grid-cols-1 gap-8 sm:grid-cols-2">
-          {latestNotes.map((note) => (
-            <div>
-              <Note note={note} as="h4" isPreview />
-            </div>
-          ))}
-        </div>
-      </section>
-    )
-  }
-  -->
-
-  <!-- Debug -->
-  <!--
-	<div class="flex justify-between flex-wrap gap-y-1.5 mt-6 text-sm font-medium">
-		<div class="text-center content-center h-10 w-10 bg-color-50"><span class="text-textColor">50</span></div>
-		<div class="text-center content-center h-10 w-10 bg-color-75"><span class="text-textColor">75</span></div>
-		<div class="text-center content-center h-10 w-10 bg-color-100"><span class="text-textColor">100</span></div>
-		<div class="text-center content-center h-10 w-10 bg-color-150"><span class="text-textColor">150</span></div>
-		<div class="text-center content-center h-10 w-10 bg-color-200"><span class="text-textColor">200</span></div>
-		<div class="text-center content-center h-10 w-10 bg-color-250"><span class="text-textColor">250</span></div>
-		<div class="text-center content-center h-10 w-10 bg-color-300"><span class="text-textColor">300</span></div>
-		<div class="text-center content-center h-10 w-10 bg-color-350"><span class="text-textColor">350</span></div>
-		<div class="text-center content-center h-10 w-10 bg-color-400">
-			<span class="text-textColor">400</span>
-			<span class="text-bgColor">400</span>
-		</div>
-		<div class="text-center content-center h-10 w-10 bg-color-450">
-			<span class="text-textColor">450</span>
-			<span class="text-bgColor">450</span>
-		</div>
-		<div class="text-center content-center h-10 w-10 bg-color-500">
-			<span class="text-textColor">500</span>
-			<span class="text-bgColor">500</span>
-		</div>
-		<div class="text-center content-center h-10 w-10 bg-color-550"><span class="text-bgColor">550</span></div>
-		<div class="text-center content-center h-10 w-10 bg-color-600"><span class="text-bgColor">600</span></div>
-		<div class="text-center content-center h-10 w-10 bg-color-650"><span class="text-bgColor">650</span></div>
-		<div class="text-center content-center h-10 w-10 bg-color-700"><span class="text-bgColor">700</span></div>
-		<div class="text-center content-center h-10 w-10 bg-color-750"><span class="text-bgColor">750</span></div>
-		<div class="text-center content-center h-10 w-10 bg-color-800"><span class="text-bgColor">800</span></div>
-		<div class="text-center content-center h-10 w-10 bg-color-850"><span class="text-bgColor">850</span></div>
-		<div class="text-center content-center h-10 w-10 bg-color-900"><span class="text-bgColor">900</span></div>
-	</div>
-	-->
 </PageLayout>
