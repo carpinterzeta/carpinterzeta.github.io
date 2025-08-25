@@ -1,7 +1,7 @@
 ---
 title: "Viendo el tiempo en consola con Wttr"
 description: "Aprende a chequear el tiempo que hace a través de la consola con esta herramienta."
-publishDate: 2025-08-02
+publishDate: 2024-06-09
 tags: ["tutorial", "wttr", "consola", "alacritty", "arch"]
 ---
 

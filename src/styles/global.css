@@ -169,7 +169,7 @@
 		--theme-text: var(--theme-color-500); /* Text brightness color adapted to background color */ 
 
 		/*** SECONDARY COLORS (External links, neutral accent, quotes) ***/
-		--theme-link: var(--hue) 61% 71%; /* Color for external links */
+		--theme-link: 120deg 50% 63%; /* Color for external links */
 		--theme-accent: var(--theme-color-600); /* Neutral accent relative to text */
 		--theme-quote: var(--theme-text); /* Quote color */
 

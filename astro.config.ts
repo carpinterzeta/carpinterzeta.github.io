@@ -69,7 +69,7 @@ export default defineConfig({
       ],
       start_url: "/",
       background_color: "#1d1f21",
-      theme_color: "#2bbc8a",
+      theme_color: "#2bbc8aff",
       display: "standalone",
       config: {
         insertFaviconLinks: false,
@@ -102,8 +102,8 @@ export default defineConfig({
         rehypePrettyCode,
         {
           theme: {
-            light: "rose-pine-dawn", // after changing the theme, the server needs to be restarted
-            dark: "rose-pine", // after changing the theme, the server needs to be restarted
+            light: "github-light", // after changing the theme, the server needs to be restarted
+            dark: "github-dark", // after changing the theme, the server needs to be restarted
           },
 
           transformers: [transformerNotationDiff(), transformerMetaHighlight()],
