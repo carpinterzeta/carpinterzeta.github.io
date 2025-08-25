@@ -8,7 +8,6 @@ import { Icon } from "astro-icon/components";
 */
 const socialLinks: {
   friendlyName: string;
-  isWebmention?: boolean;
   link: string;
   name: string;
 }[] = [
@@ -24,12 +23,11 @@ const socialLinks: {
   <p>Contacto:</p>
   <ul class="flex flex-1 items-center gap-x-2 sm:flex-initial">
     {
-      socialLinks.map(({ friendlyName, isWebmention, link, name }) => (
+      socialLinks.map(({ friendlyName, link, name }) => (
         <li class="flex">
           <a
             class="inline-block hover:text-link drop-shadow-[0px_2.5px_2.5px_rgba(0,0,0,0.175)]"
             href={link}
-            rel={`noreferrer ${isWebmention ? "me authn" : ""}`}
             target="_blank"
           >
             <Icon

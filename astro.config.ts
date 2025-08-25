@@ -25,9 +25,6 @@ import {
 
 // https://astro.build/config
 export default defineConfig({
-  image: {
-    domains: ["webmention.io"],
-  },
   integrations: [
     icon(),
     tailwind({
@@ -124,25 +121,6 @@ export default defineConfig({
       exclude: ["@resvg/resvg-js"],
     },
     plugins: [rawFonts([".ttf", ".woff"])],
-  },
-  env: {
-    schema: {
-      WEBMENTION_API_KEY: envField.string({
-        context: "server",
-        access: "secret",
-        optional: true,
-      }),
-      WEBMENTION_URL: envField.string({
-        context: "client",
-        access: "public",
-        optional: true,
-      }),
-      WEBMENTION_PINGBACK: envField.string({
-        context: "client",
-        access: "public",
-        optional: true,
-      }),
-    },
   },
   server: {
     // port: 1234,
