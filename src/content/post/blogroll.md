@@ -26,6 +26,6 @@ tags:
 - [Moribundo Insurgente](https://moribundoinsurgente.noblogs.org) / [gemini://moribundo.flounder.online/](gemini://moribundo.flounder.online/)
 - [Blog de Andros Fenollosa](https://andros.dev)
 - [Blog de Cris92](https://ccriss92.bearblog.dev/)
-- [El pingüinos Tolkiano](https://elpinguinotolkiano.wordpress.com/)
+- [El pingüino Tolkiano](https://elpinguinotolkiano.wordpress.com/)
 - [Diego López](https://diegologs.com/)
 - [La bitácora del pequeño aprendiz](https://altgr.xyz/)
