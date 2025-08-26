@@ -6,4 +6,4 @@ publishDate: "2025-08-01T11:23:00Z"
 
 - Desarrollo de blogs con el framework astro
 - Python
-- Go
+- Go (el juego de mesa, no el lenguaje de programación)
