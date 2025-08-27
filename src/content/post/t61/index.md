@@ -6,7 +6,7 @@ tags: ["tutorial", "wttr", "consola", "alacritty", "arch"]
 draft: false
 ---
 
-Muy bien, pues esto es una entrada de prueba, la estoy escribiendo desde un Lenovo Thinkpad T61,
+Muy bien, pues esto es una entrada de prueba, la estoy escribiendo desde un [Lenovo Thinkpad T61](https://thinkpads.com/t61/),
 
 Este equipo salió al mercado en 2007 y cuenta con una CPU Intel(R) Core(TM)2 Duo T7300 (2) @ 2.00 GHz y 2 GiB de memoria RAM (aumentada a 4 GiB recientemente) y también con un almacenamiento sata SSD.
 
@@ -38,7 +38,7 @@ Este equipo salió al mercado en 2007 y cuenta con una CPU Intel(R) Core(TM)2 Du
 
 En este equipo tengo montado una distribución Arch con el gestor de ventanas iw3m, muy liviano. Con un consumo medio de unos 400-500MiB de RAM con un par de terminales abiertas.
 
-![Lenovo T61 - por Maja Dumat](https://en.wikipedia.org/wiki/ThinkPad_T61#/media/File:Thinkpad_T61_with_docking_station.jpg)
+![Lenovo T61 - por Maja Dumat CC by 2.0](./27339916640_102d86de57_k.jpg)
 
 Funciona de forma correcta para trabajos centrados en el uso de la consola, redacción de textos y consumo de audiovisuales a 1080p en navegador.
 
