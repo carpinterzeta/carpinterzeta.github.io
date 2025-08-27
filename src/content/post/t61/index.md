@@ -8,10 +8,9 @@ draft: false
 
 Muy bien, pues esto es una entrada de prueba, la estoy escribiendo desde un [Lenovo Thinkpad T61](https://thinkpads.com/t61/),
 
-Este equipo salió al mercado en 2007 y cuenta con una CPU Intel(R) Core(TM)2 Duo T7300 (2) @ 2.00 GHz y 2 GiB de memoria RAM (aumentada a 4 GiB recientemente) y también con un almacenamiento sata SSD.
+Este equipo salió al mercado en 2007 y cuenta con una CPU Intel(R) Core(TM)2 Duo T7300 (2) @ 2.00 GHz y 2 GiB de memoria RAM (aumentada a 4 GiB recientemente) y también con un almacenamiento sata SSD. (Ambas cosas actualizadas, con una BIOS también custom para mejoras en velocidad)
 
-
-``` title="fastfetch"
+`````title="fastfetch"
                   -`                     akarp@archlinux-t64
                  .o+`                    -------------------
                 `ooo/                    OS: Arch Linux x86_64
@@ -34,7 +33,7 @@ Este equipo salió al mercado en 2007 y cuenta con una CPU Intel(R) Core(TM)2 Du
                                          Local IP (wlan0): 192.168.1.249/24
                                          Battery (42T5225): 99% [AC Connected]
                                          Locale: es_ES.UTF-8
-```
+`````
 
 En este equipo tengo montado una distribución Arch con el gestor de ventanas iw3m, muy liviano. Con un consumo medio de unos 400-500MiB de RAM con un par de terminales abiertas.
 
@@ -42,3 +41,8 @@ En este equipo tengo montado una distribución Arch con el gestor de ventanas iw
 
 Funciona de forma correcta para trabajos centrados en el uso de la consola, redacción de textos y consumo de audiovisuales a 1080p en navegador.
 
+Mi plan es también instalarle XFCE4 para ver qué tal rinde con un escritorio liviano, imagino que tendrá un rendimiento similar a i3wm, pero con más comodidades para el día a día.
+
+Es asombroso como equipos antiguos con unos componentes decentes pueden seguir dando guerra.
+
+Iré actualizando este post próximamente con las novedades y sensaciones que vaya teniendo.
