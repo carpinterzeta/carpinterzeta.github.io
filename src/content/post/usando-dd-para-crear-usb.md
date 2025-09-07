@@ -1,5 +1,5 @@
 ---
-title: "Cómo usar dd para grabar sistemas operativos en memorias USB"
+title: "Cómo usar dd para grabar imágenes .iso en memorias USB"
 description: "Comando práctico de la herramienta dd para grabar imagenes .iso en memorias USB."
 publishDate: 2025-09-07
 tags: ["tutorial", "dd", "linux", "iso", "void-linux"]
