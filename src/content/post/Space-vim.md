@@ -1,6 +1,7 @@
 ---
 title: "Spacevim"
 publishDate: 2024-05-15
+description: "Introducción a SpaceVim"
 tags: ["Spacevim", "Open Source", "IDE", "Herramientas", "vim", "neovim"]
 ---
 
