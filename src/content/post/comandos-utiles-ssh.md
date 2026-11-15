@@ -15,5 +15,5 @@ Si no lo tenemos y queremos generarla:
 
 Donde ed25519 es el algoritmo de encriptado de la clave.
 
-Esta entrada ser irá actualizando. Fecha de la última actualización: 24 de diciembre 2025.
+Esta entrada ser irá actualizando. Fecha de la última actualización: 24 de diciembre 2025
 
