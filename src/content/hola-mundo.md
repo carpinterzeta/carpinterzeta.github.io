@@ -1,8 +1,8 @@
-+++
-title = "Hola Mundo"
-date = "2024-05-12T10:32:03+02:00"
-tags = ["Test", "Web sencilla", "Hugo", "Inspiración"]
-+++
+---
+title: "Hola Mundo"
+date: 2024-05-12T10:32:03+02:00
+tags: ["Test", "Web sencilla", "Hugo", "Inspiración"]
+---
 
 ## Hola Mundo!
 

@@ -1,8 +1,8 @@
-+++
-title = "Instalando Librewolf con yay"
-date = "2024-05-25T09:16:50+02:00"
-tags = ["tutorial","arch","yay","navegador","librewolf","OpenSource"]
-+++
+---
+title: "Instalando Librewolf con yay"
+date: 2024-05-25T09:16:50+02:00
+tags: ["tutorial","arch","yay","navegador","librewolf","OpenSource"]
+---
 
 ## [Librewolf](https://librewolf.net/) es un navegador basado en Firefox, que se centra en la seguridad, la privacidad y la libertad.
 

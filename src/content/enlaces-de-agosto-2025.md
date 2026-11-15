@@ -1,6 +1,6 @@
 ---
 title: "Enlaces de agosto 2025"
-date: 2025-08-02
+publishDate: 2025-08-02
 draft: false
 description: Una selección de los enlaces que he encontrado útiles en la red, tanto blogs, como tutoriales o nuevos sitios relacionados con intereses variados. 
 tags:

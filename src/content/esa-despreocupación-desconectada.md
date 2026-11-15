@@ -1,6 +1,6 @@
 ---
 title: "Esa despreocupación desconectada"
-date: 2025-12-09
+publishDate: 2025-12-09
 draft: false
 description: Una reflexión más de un martes por la tarde-noche.
 tags: ["Reflexiones", "Desconexión", "Aburrimiento"]

@@ -1,6 +1,6 @@
 ---
 title: "Listado de comandos útiles en SSH"
-date: 2025-12-24
+publishDate: 2025-12-24
 draft: false
 description: Una recopilación de comandos útles en SSH que tengo siempre que buscar porque no soy capaz de memorizarlos.
 tags: ["Terminal", "Atajos", "SSH", "Seguridad", "Keygen", "Tutorial", "Servidor"]

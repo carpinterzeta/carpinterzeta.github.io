@@ -1,6 +1,6 @@
 ---
 title: "SCP - Qué es y cómo usarlo"
-date: 2025-04-05
+publishDate: 2025-04-05
 draft: false
 description: Cómo usar scp y en qué consiste
 tags: ["Herramientas", "SCP", "Linux", "Software libre"]
