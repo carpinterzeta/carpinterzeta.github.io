@@ -1,26 +1,22 @@
----
-title: "Viendo el tiempo en consola con Wttr"
-description: "Aprende a chequear el tiempo que hace a través de la consola con esta herramienta."
-publishDate: 2024-06-09
-tags: ["tutorial", "wttr", "consola", "alacritty", "arch"]
----
++++
+title = "Viendo el tiempo en consola"
+date = "2024-06-09T08:48:50+02:00"
+tags = ["tutorial","wttr","consola","alacritty","arch"]
++++
 
 En esta entrada rápida quiero compartir un recurso para chequear el reporte del tiempo directamente en consola, de forma muy rápida.
-El servicio que vamos a estar utilizando es [wttr.in](wwttr.in), un recurso creado por _Igor Chubin_.
+El servicio que vamos a estar utilizando es [wttr.in](wwttr.in), un recurso creado por *Igor Chubin*.
 Aquí podéis revisar el repositorio del [proyecto](https://github.com/chubin/wttr.in).
 
-En mi caso he creado un alias en _.zshrc_ (esto me lleva a pensar en futuras entradas sobre cambiar la SHELL por defecto de Arch y explicar que es zsh y cómo manejarla.)
+En mi caso he creado un alias en *.zshrc* (esto me lleva a pensar en futuras entradas sobre cambiar la SHELL por defecto de Arch y explicar que es zsh y cómo manejarla.)
 Pero también puedes recrear los pasos de gestión de alias si tu SHELL por defecto es BASH, editando y añadiendo el alias en .bashrc
 
 El servicio en cuestión mediante un curl te muestra el tiempo en formato ASCI.
 
 Por ejemplo:
-
 ```
 curl wttr.in
-
 ```
-
 Mostraría el tiempo de la ubicación de tu ip:
 
 ```
@@ -67,19 +63,22 @@ Follow @igor_chubin for wttr.in updates
 ```
 
 Puedes indicar directamente una localización con el nombre de la ciudad:
-
 ```
 culr wttr.in/madrid
 ```
 
 El alias en cuestión sería el siguiente:
-
 ```
 alias tiempo='curl wttr.in/madrid'
 ```
-
 Una vez guardado y en una nueva instancia de la terminal, podremos escribir "tiempo" y aparecerá el bonito reporte.
 
-Este servicio _wttr.in_ he visto que se usa mucho para extraer información del tiempo y "pintarlo" mediante scripts en las barras de estado tipo sway/polybar/i3status y similares.
+Este servicio *wttr.in* he visto que se usa mucho para extraer información del tiempo y "pintarlo" mediante scripts en las barras de estado tipo sway/polybar/i3status y similares.
 
-Gracias por leer
+Gracias por leer :)
+carpinterzeta.
+
+
+
+
+

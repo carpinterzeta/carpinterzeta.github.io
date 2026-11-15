@@ -1,10 +1,10 @@
----
-title: "Soluciones de fin de mes"
-description: "Hay veces que el tema tecnológico y más específicamente, el informático, es algo puñetero."
-publishDate: 2024-12-25
-tags: ["Teclado","Git","Novato","GRUB","Dual Boot" ]
----
++++
+title = "Soluciones De fin de mes"
+date = "2024-12-25T21:16:05+01:00"
+tags = ["Teclado","Git","Novato","GRUB","Dual Boot" ]
++++
 
+#### Hay veces que el tema tecnológico y más específicamente, el informático es algo puñetero.
 
 Hay pequeñas cosas dejan de funcionar, ya sea por actualizaciones que "rompen", o por acciones que llevamos a cabo sin tener en cuenta las implicaciones que pueden tener en el sistema. (Esto último suele ser un copia/pega de código que hemos encontrado en Internet).
 

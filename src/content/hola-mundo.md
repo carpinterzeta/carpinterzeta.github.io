@@ -1,10 +1,8 @@
----
-title: "Hola mundo"
-publishDate: 2024-04-29
-draft: false
-description: "Un Hola Mundo! de los de siempre."
-tags: ["Blog", "Escritura", "Linux", "Software libre"]
----
++++
+title = "Hola Mundo"
+date = "2024-05-12T10:32:03+02:00"
+tags = ["Test", "Web sencilla", "Hugo", "Inspiración"]
++++
 
 ## Hola Mundo!
 
@@ -21,9 +19,9 @@ La inspiración para este proyecto se lo debo a los siguientes sites y usuarios 
 Por el momento me vienen a la mente estos tres, iré ampliando el listado según vaya recordando más sites y usuarios que suelo consumir y consultar.
 
 Las próximas actualizaciones del blog deberían incluir:
-
 - Modificación del footer del blog para incluir el tag [Not by AI](https://notbyai.fyi/es/) y mi usuario de Mastodon
 - Inclusión de más secciones
 
 Muchas gracias por leer :)
-krpntrz
+carpinterzeta
+

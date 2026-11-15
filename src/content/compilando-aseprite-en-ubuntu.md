@@ -1,9 +1,8 @@
----
-title: "Compilando Aseprite en Ubuntu"
-description: "Descubre como compilar el programa de edición pixel art Aseprite en Ubutnu"
-publishDate: 2024-11-05
-tags: ["tutorial","aseprite","pixel art","ubuntu","compilar","recursos"]
----
++++
+title = "Compilando Aseprite en Ubuntu"
+date = "2024-11-05T20:30:50+02:00"
+tags = ["tutorial","aseprite","pixel art","ubuntu","compilar","recursos"]
++++
 
 En mis aventuras como aprendiz de desarrollo de videojuegos y curioso profesional, me he topado con la necesidad de realizar algunas animaciones e ilustraciones del tipo pixel art.
 Pueden generarse con [Krita](https://krita.org/es/), [Gimp](https://www.gimp.org/), realizando algunas modificaciones en fondos y pinceles, pero hay una aplicación específica (una entre otras muchas). En este caso hablamos de [Aseprite](https://www.aseprite.org/).

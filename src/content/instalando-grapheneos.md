@@ -1,10 +1,8 @@
----
-title: "Instalando GrapheneOS"
-publishDate: 2024-11-24
-tags:
-  ["grapheneOS", "recursos", "tutorial", "software libre", "móvil", "F-droid"]
-description: "Aprende a instalar el sistema operativo para móviles Android, GrapheneOS basado en la privacidad"
----
++++
+title = "Instalando GrapheneOS"
+date = "2024-11-24T10:00:00+02:00"
+tags = ["grapheneOS", "recursos", "tutorial", "software libre", "móvil", "F-droid"]
++++
 
 Usaré esta publicación como repositorio de aplicaciones y procedimientos para instalar Graphene OS.
 La idea es mantener un sistema minimalista y con un uso controlado.

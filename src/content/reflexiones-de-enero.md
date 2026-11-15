@@ -1,6 +1,6 @@
 ---
 title: Reflexiones - 13 de enero de 2025
-publishDate: 2025-01-13
+date: 2025-01-13
 draft: false
 description: Reflexiones sin más
 tags:

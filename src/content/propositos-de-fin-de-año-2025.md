@@ -1,9 +1,8 @@
----
-title: "Propósitos de fin de año - 2024"
-description: "Una serie de pensamientos y desvaríos para cerrar el año"
-publishDate: 2025-01-01
-tags: ["Reflexiones"]
----
++++
+title = "Propósitos de fin de año - 2024"
+date = "2025-01-01T08:00:00+02:00"
+tags = ["Reflexiones"]
++++
 
 Sí, esos mismos propósitos. Esos propósitos que sirven para saltárselos a la torera. Tengo normalmente sentimientos encontratos con los propósitos de fin de año.
 

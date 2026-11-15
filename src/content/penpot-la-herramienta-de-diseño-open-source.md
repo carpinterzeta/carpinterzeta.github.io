@@ -1,9 +1,8 @@
----
-title: "Penpont: La herramienta de diseño open source"
-description: "La herramienta de diseño, alternativa libre a FIGMA"
-publishDate: 2024-05-14
-tags: ["Penpot", "Open Source", "Diseño", "Herramientas"]
----
++++
+title = "Penpont: La herramienta de diseño open source"
+date = "2024-05-14T21:11:03+02:00"
+tags = ["Penpot", "Open Source", "Diseño", "Herramientas"]
++++
 
 Hoy en esta entrada rápida, me gustaría compartir una herramienta de diseño open source. La mejor que existe bajo mi punto de vista: **[Penpot](https://penpot.app/)**, **diseñada y creada en España por el equipo de [Kaleidos](https://kaleidos.net/)**.
 
