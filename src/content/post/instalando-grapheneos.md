@@ -1,6 +1,6 @@
 ---
 title: "Instalando GrapheneOS"
-date: 2024-11-24T10:00:00+02:00
+publishDate: 2024-11-24
 tags: ["grapheneOS", "recursos", "tutorial", "software libre", "móvil", "F-droid"]
 ---
 

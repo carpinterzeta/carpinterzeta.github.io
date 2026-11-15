@@ -1,7 +1,7 @@
 ---
 title: "Vuelta a publicar"
-date:  "2025-05-16"
-tags:  ["Reflexiones", "blog", "escritura"]
+publishDate: 2025-05-16
+tags: ["Reflexiones", "blog", "escritura"]
 ---
 
 Bueno, aquí estamos de vuelta. Después de sufrir las caídas que ya vienen siendo habituales los fines de semana (ejem, laliga trust issues), y que el dominio caducó... me gustaría volver a tener una rutina en el que pueda ir plasmando mis pensamientos y desvaríos en este espacio en la red.

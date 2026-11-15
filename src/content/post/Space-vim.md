@@ -1,7 +1,7 @@
 ---
 title: "Spacevim"
-date:  2024-05-15T16:58:03+02:00
-tags:  ["Spacevim", "Open Source", "IDE", "Herramientas", "vim", "neovim"]
+publishDate: 2024-05-15
+tags: ["Spacevim", "Open Source", "IDE", "Herramientas", "vim", "neovim"]
 ---
 
 **2025-12-04 Revisando la documentación del proyecto, ha sido archivado.

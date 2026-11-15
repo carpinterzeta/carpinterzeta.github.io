@@ -1,6 +1,6 @@
 ---
 title: "Penpont: La herramienta de diseño open source"
-date:  "2024-05-14T21:11:03+02:00"
+publishDate: 24-05-14
 tags:  ["Penpot", "Open Source", "Diseño", "Herramientas"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Hola Mundo"
-date: 2024-05-12T10:32:03+02:00
+publishDate: 2024-05-12
 tags: ["Test", "Web sencilla", "Hugo", "Inspiración"]
 ---
 

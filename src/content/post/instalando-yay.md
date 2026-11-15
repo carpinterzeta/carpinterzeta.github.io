@@ -1,6 +1,6 @@
 ---
 title: "Instalando Yay"
-date:  "2024-05-13T21:45:50+02:00"
+publishDate: 2024-05-13
 tags:  ["tutorial","arch","yay"]
 ---
 

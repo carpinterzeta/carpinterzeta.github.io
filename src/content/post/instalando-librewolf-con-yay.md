@@ -1,6 +1,6 @@
 ---
 title: "Instalando Librewolf con yay"
-date: 2024-05-25T09:16:50+02:00
+publishDate: 2024-05-25
 tags: ["tutorial","arch","yay","navegador","librewolf","OpenSource"]
 ---
 

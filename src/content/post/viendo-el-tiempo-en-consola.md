@@ -1,7 +1,7 @@
 ---
 title: "Viendo el tiempo en consola"
-date:  "2024-06-09T08:48:50+02:00"
-tags:  ["tutorial","wttr","consola","alacritty","arch"]
+publishDate: 2024-06-09
+tags: ["tutorial","wttr","consola","alacritty","arch"]
 ---
 
 En esta entrada rápida quiero compartir un recurso para chequear el reporte del tiempo directamente en consola, de forma muy rápida.
