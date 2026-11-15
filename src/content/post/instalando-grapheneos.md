@@ -1,6 +1,7 @@
 ---
 title: "Instalando GrapheneOS"
 publishDate: 2024-11-24
+description: Cómo instalar Graphene OS en un Pixel.
 tags: ["grapheneOS", "recursos", "tutorial", "software libre", "móvil", "F-droid"]
 ---
 
