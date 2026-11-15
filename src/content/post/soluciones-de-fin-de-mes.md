@@ -1,6 +1,7 @@
 ---
 title: "Soluciones De fin de mes"
 publishDate: 2024-12-25
+description: Reflexiones
 tags: ["Teclado","Git","Novato","GRUB","Dual Boot" ]
 ---
 

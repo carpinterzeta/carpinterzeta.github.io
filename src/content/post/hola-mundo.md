@@ -1,6 +1,7 @@
 ---
 title: "Hola Mundo"
 publishDate: 2024-05-12
+description: Hola qué tal, lo primero de todo....
 tags: ["Test", "Web sencilla", "Hugo", "Inspiración"]
 ---
 

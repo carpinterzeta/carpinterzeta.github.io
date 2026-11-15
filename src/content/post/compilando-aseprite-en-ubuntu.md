@@ -1,6 +1,7 @@
 ---
 title: "Compilando Aseprite en Ubuntu"
 publishDate: 2024-11-05
+description: Cómo compilar Aseprite en Ubuntu, un editor de sprites y una herramienta para diseño de pixel art.
 tags: ["tutorial","aseprite","pixel art","ubuntu","compilar","recursos"]
 ---
 En mis aventuras como aprendiz de desarrollo de videojuegos y curioso profesional, me he topado con la necesidad de realizar algunas animaciones e ilustraciones del tipo pixel art.

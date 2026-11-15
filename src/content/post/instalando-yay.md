@@ -1,7 +1,9 @@
 ---
 title: "Instalando Yay"
 publishDate: 2024-05-13
+description: En esta entrada corta quiero dejar reflejado el proceso de instalación del helper yay.
 tags:  ["tutorial","arch","yay"]
+
 ---
 
 En esta entrada corta quiero dejar reflejado el proceso de instalación del helper [yay](https://aur.archlinux.org/yay.git) de Arch Linux. Un helper es una herramienta que facilita la gestión en la instalación y mantenimiento de los paquetes AUR (abreviatura de [Arch User Repository](https://wiki.archlinux.org/title/Arch_User_Repository_(Espa%C3%B1ol))), donde la comunidad sube las descripciones de los paquetes (PKGBUILD) que permiten compilar un paquete desde código fuente con makepkg para su posterior instalación con pacman.

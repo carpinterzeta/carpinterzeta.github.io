@@ -1,6 +1,7 @@
 ---
 title: "Penpont: La herramienta de diseño open source"
 publishDate: 24-05-14
+description: Penpot, el Figma Killer.
 tags:  ["Penpot", "Open Source", "Diseño", "Herramientas"]
 ---
 

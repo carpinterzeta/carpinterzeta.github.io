@@ -1,6 +1,7 @@
 ---
 title: "Vuelta a publicar"
 publishDate: 2025-05-16
+description: Reflexiones
 tags: ["Reflexiones", "blog", "escritura"]
 ---
 

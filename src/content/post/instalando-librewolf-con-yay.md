@@ -1,6 +1,7 @@
 ---
 title: "Instalando Librewolf con yay"
 publishDate: 2024-05-25
+description: Librewolf es un navegador basado en Firefox, que se centra en la seguridad, la privacidad y la libertad.
 tags: ["tutorial","arch","yay","navegador","librewolf","OpenSource"]
 ---
 

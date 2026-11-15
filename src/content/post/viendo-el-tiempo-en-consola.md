@@ -1,5 +1,6 @@
 ---
 title: "Viendo el tiempo en consola"
+description: En esta entrada rápida quiero compartir un recurso para chequear el reporte del tiempo directamente en consola, de forma muy rápida.
 publishDate: 2024-06-09
 tags: ["tutorial","wttr","consola","alacritty","arch"]
 ---

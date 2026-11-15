@@ -1,6 +1,7 @@
 ---
 title: "Propósitos de fin de año - 2024"
 publishDate: 2025-01-01
+description: ¿Se cumplirán?
 tags: ["Reflexiones"]
 ---
 
