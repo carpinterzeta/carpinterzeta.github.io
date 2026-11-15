@@ -1,5 +1,5 @@
 ---
-title: Instalando un entorno de virtualización en Fedora, Debian y dervidadas.
+title: Instalando un entorno de virtualización.
 publishDate: 2026-11-21
 draft: false
 description: Pasos para instalar un entorno de virtualizacion en Fedora, Arch Linux y Debian (y sus derivadas).
